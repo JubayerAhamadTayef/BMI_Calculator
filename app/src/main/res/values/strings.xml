@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">BMI</string>
+    <string name="enter_your_height_in_inch">Enter your Height in Inch</string>
+    <string name="enter_your_weight_in_kg">Enter your Weight in KG</string>
+    <string name="calculate_bmi">Calculate BMI</string>
+    <string name="your_bmi_calculate_first_than_see_here">Your BMI: Calculate First, than see here!</string>
+    <string name="your_bmi_classification_calculate_first_than_see_here">Your BMI Classification: Calculate First, than see here!</string>
 </resources>
